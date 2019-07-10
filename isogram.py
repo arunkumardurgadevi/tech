@@ -4,6 +4,6 @@ for i in ab:
   if i not in lst:
     lst.append(lst)
 if(ab==lst):
-  print("yes")
+  print("Yes")
 else:
-  print("no")
+  print("No")
